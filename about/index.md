@@ -11,8 +11,8 @@ comments: false
 
 ## Spack
 * Node.js
-* java-vert.x
-* react
+* Java-vert.x
+* React
 
 ## Project
 * DMS: 학교 기숙사 관리 시스템 (서버)
