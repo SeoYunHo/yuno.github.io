@@ -8,30 +8,17 @@ comments: false
     
 <center>대덕소프트웨어마이스터고등학교 소프트웨어 개발과에 진학중인 서버 개발자</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## spack
+* Node.js
+* java-vert.x
+* react
 
-## Preview
+## project
+* DMS: 학교 기숙사 관리 시스템 (서버)
+* Remember-Task: 멀티 플랫폼(웹-프론트)
+* HubGaru: 음악 커뮤니티 (서버)
+* 동아리랑: 학교 동아리 관리 어플 (서버)
+* 식문고: 고객의 개선 사항을 음식점에 전달하는 어플 (서버)
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+## Introduction
+* 열심히 노력하고 있는 서버 개발자
