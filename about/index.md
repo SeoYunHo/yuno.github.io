@@ -7,13 +7,14 @@ comments: false
 ---
     
 <center>대덕소프트웨어마이스터고등학교 소프트웨어 개발과에 진학중인 서버 개발자</center>
+<hr>
 
-## spack
+## Spack
 * Node.js
 * java-vert.x
 * react
 
-## project
+## Project
 * DMS: 학교 기숙사 관리 시스템 (서버)
 * Remember-Task: 멀티 플랫폼(웹-프론트)
 * HubGaru: 음악 커뮤니티 (서버)
