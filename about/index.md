@@ -22,4 +22,4 @@ comments: false
 * Remember-Task: 멀티 플랫폼 기반의 To Do List(웹-프론트)
 
 ## Introduction
-* 열심히 노력하고 있는 서버 개발자
+* 열심히 노력하고 있는 서버 개발자입니다.
