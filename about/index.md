@@ -12,7 +12,7 @@ comments: false
 ## Spack
 * Node.js
 * Java-vert.x
-* React
+* React.js
 * Java Script
 
 ## Project
