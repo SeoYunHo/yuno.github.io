@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TDD, Pull-request, 회고회의에 대해서
+title: TDD, Pull-request, 회고회의에 대해서 1
 date: 2017-07-29
 excerpt: "TDD에 대해서 알아봅시다!"
 tags: [ab180, post]
