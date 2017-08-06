@@ -59,6 +59,7 @@ comments: true
 ---
 ```
 회고회의
+-http://krdic.naver.com/detail.nhn?docid=43376000
 -https://msdn.microsoft.com/ko-kr/library/ee191586(v=vs.100).aspx
 -http://mediati.kr/39/-%EB%A9%94%EB%94%94%EC%95%84%ED%8B%B0-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8-01-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8-%EA%B0%80-%EB%AD%90%EC%A7%80-
 ```
