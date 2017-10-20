@@ -1,0 +1,38 @@
+자바스크립트에서는 타입을 어떤 값을 다른 값과 분별할 수 있는 고유한 내부 특성의 집합이다
+ex) 100과 '100'은 다르게 인식
+
+자바스크립트에서는 강제변환이 다양한 방식으로 많이 일어난다.
+
+강제변환을 활용해보자
+
+타입
+
+1. null
+2. undefined
+3. boolean
+4. number
+5. string
+6. object
+7.symbol(es6부터 추가)
+
+타입은 typeof 연산자로..
+
+*null은 특이함
+typeof null === "object"; //true
+typeof null이 null이 아니라 object라는 것이다.
+
+그래서 타입으로 null  값을 정확히 확인하려면
+
+-> (!a && typeof a === "object"); //true
+
+null은 falsy한 값이지만, 타입은 "object"
+
+한가지 더있다.
+
+typeof function a() {} === "function";
+
+function이 타입으로 보이지만, 명세에는 object의 하위 타입, 즉 호출 가능한 object
+
+배열은 그냥 객체 배열은 length 프로퍼티가 자동으로 관리되는 등의 추가 특성을 지닌 객체의 하위 타입
+
+
