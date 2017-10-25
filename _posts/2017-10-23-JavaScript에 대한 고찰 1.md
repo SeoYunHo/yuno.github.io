@@ -3,7 +3,7 @@ layout: post
 title: JavaScript에 대한 고찰 1
 date: 2017-10-23
 excerpt: "JavaScript의 데이터 타입에 대해 알아보자"
-tags: [js, post]
+tags: [js, post, JavaScript 고찰]
 comments: true
 ---
 
