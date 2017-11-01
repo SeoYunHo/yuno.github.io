@@ -25,7 +25,11 @@ comments: true
 
 한가지 다른점은 Class가 아니라 Prototype라는 것입니다.
 
-자바에서의 Class는 다음과 같이 사용합니다.
+자바의 클래스와 Prototype의 다른 점은 클래스는 새로운 객체를 만들지만,
+
+Prototype은 객체를 복사해서 새로운 객체를 생성합니다.
+
+먼저, 자바에서의 Class는 다음과 같이 사용합니다.
 
 ```Java
 public Point {
