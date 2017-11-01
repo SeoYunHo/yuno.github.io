@@ -23,9 +23,7 @@ comments: true
 
 자바스크립트와 다른 객체지향 언어와 비슷합니다.
 
-한가지 다른점은 Class가 아니라 Prototype라는 것입니다.
-
-그래도 자바의 클래스와 Prototype의 다른 점이 있는데 
+자바의 class와 자바스크립트의 Prototype은 비슷하지만, 다른 점이 있습니다.
 
 그것은 class는 새로운 객체를 만들지만,
 
