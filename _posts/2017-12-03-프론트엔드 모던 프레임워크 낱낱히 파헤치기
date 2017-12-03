@@ -35,7 +35,7 @@ vue - 가볍고 진입장벽 낮음, 프로젝트가 커질수록 안좋아짐
 
 ## 프레임워크 톺아보기
 
-angular는 view와 viewmodel이 서로 분리
+angular는 view와 viewmodel이 서로 분리합니다.
 
 react는 view와 viewmodel이 하나의 class에 속해있다.
 
