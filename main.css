@@ -4,7 +4,7 @@ body {
 .slide-section {
   width: calc(100% - 24px);
   height: calc(100vh - 24px);
-  border: 2px solid black;
+  border: 3px solid black;
   margin: 12px;
 }
 
@@ -13,6 +13,20 @@ body {
   background-color: rgb(246, 194, 67);
   display: inline-block;
   position: absolute;
+  animation-name: circle;
+  animation-duration: 1s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+}
+
+@keyframes circle {
+  50% {
+    transform: scale(1.2);
+  }
+
+  100% {
+    transform: scale(1.0);
+  }
 }
 
 .big{
@@ -33,14 +47,15 @@ body {
 
 #slide-title {
   width: 150px;
-  height: 120px;
+  height: 160px;
   position: relative;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+  font-family: Impact
 }
 
 #slide-title p{
   margin: 0px;
-  font-size: 52px;
+  font-size: 70px;
 }
