@@ -1,0 +1,46 @@
+body {
+  box-sizing: border-box;
+}
+.slide-section {
+  width: calc(100% - 24px);
+  height: calc(100vh - 24px);
+  border: 2px solid black;
+  margin: 12px;
+}
+
+.circle{
+  border-radius: 100%;
+  background-color: rgb(246, 194, 67);
+  display: inline-block;
+  position: absolute;
+}
+
+.big{
+  width: 115px;
+  height: 115px;
+  bottom: -20px;
+  right: -50px;
+  z-index: -1;
+}
+
+.small{
+  width: 44px;
+  height: 44px;
+  top: -10px;
+  left: -20px;
+  z-index: -1;
+}
+
+#slide-title {
+  width: 150px;
+  height: 120px;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#slide-title p{
+  margin: 0px;
+  font-size: 52px;
+}
